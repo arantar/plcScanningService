@@ -1,0 +1,7 @@
+C:\Users\Maxim\source\repos\plcScanningService\plcScanningService\obj\Debug\plcScanningService.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\source\repos\plcScanningService\plcScanningService\obj\Debug\plcScanningService.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\plcScanningService\plcScanningService\bin\Debug\plcScanningService.exe.config
+C:\Users\Maxim\source\repos\plcScanningService\plcScanningService\bin\Debug\plcScanningService.exe
+C:\Users\Maxim\source\repos\plcScanningService\plcScanningService\bin\Debug\plcScanningService.pdb
+C:\Users\Maxim\source\repos\plcScanningService\plcScanningService\obj\Debug\plcScanningService.exe
+C:\Users\Maxim\source\repos\plcScanningService\plcScanningService\obj\Debug\plcScanningService.pdb
